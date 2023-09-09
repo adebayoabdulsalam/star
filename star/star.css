@@ -1,0 +1,89 @@
+.container{
+  border: 1px solid black;
+  height: 50px;
+  text-align: center;
+  display: flex;
+  gap: 80px;
+  background-color: rgb(247, 243, 243);
+}
+.nav{
+  gap: 20px;
+  display: flex;
+  font-size: 25px;
+  font-display: 60px;
+  color: white;
+}
+.spen{
+  text-align: center;
+  display: flex;
+  font-size: 20px;
+}
+.spen button{
+text-align: 6px;
+font-size: 7px;
+height: 50px;
+width: 90px;
+border-radius: 500px;
+}
+.help{
+  display: flex;
+}
+.start a{
+  color: blue;
+}
+.p{
+  text-align: center;
+}
+.pet{
+  position: absolute;
+  left: 10%;
+  top: 20%;
+}
+.home{
+font-size: 60px;
+display: 30px;
+color: rgb(5, 5, 63);
+}
+.header{
+  font-size: 60px;
+  color:  rgb(5, 5, 63);
+}
+.targe{
+  font-size: 40px;
+  color: rgb(5, 5, 63);
+}
+.pet button{
+  background-color: rgb(5, 5, 63);
+  color: white;
+  border-radius: 30px;
+  font-size: 30px;
+}
+.top{
+  font-size: 20px;
+}
+.image img{
+height: 500px;
+width: 300px;
+position: absolute;
+top: 20%;
+left: 90%;
+}
+
+.pot{
+  border: 1px solid purple;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 96%;
+  top: 75%;
+  background-color: purple;
+}
+.pot h3{
+  color: white;
+}
+.pot p{
+color: white;
+}
+.pot span{
+  color: white;
+}
